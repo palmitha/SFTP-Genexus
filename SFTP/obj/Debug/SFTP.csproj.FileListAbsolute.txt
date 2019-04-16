@@ -1,0 +1,5 @@
+c:\users\jesus.palma\documents\visual studio 2013\Projects\SFTP\SFTP\bin\Debug\SFTP.dll
+c:\users\jesus.palma\documents\visual studio 2013\Projects\SFTP\SFTP\bin\Debug\SFTP.pdb
+c:\users\jesus.palma\documents\visual studio 2013\Projects\SFTP\SFTP\obj\Debug\SFTP.csprojResolveAssemblyReference.cache
+c:\users\jesus.palma\documents\visual studio 2013\Projects\SFTP\SFTP\obj\Debug\SFTP.dll
+c:\users\jesus.palma\documents\visual studio 2013\Projects\SFTP\SFTP\obj\Debug\SFTP.pdb
